@@ -1,0 +1,11 @@
+{
+  "name": "pj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pj.js",
+  "scripts": {
+    "start": "node pj.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
